@@ -4,5 +4,5 @@
 
 <h2> 😎 &nbsp;A Little Bit About Me and My Interests</h2>
 ✨ Data Engineer and jack of all trades by day<br>
-🖥️ My hobbies are homelabing, open source, AI<br>
+🖥️ My hobbies are homelabing, open source, and AI<br>
 🚙 Ask me about living fulltime in an RV<br>
