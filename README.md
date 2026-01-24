@@ -1,6 +1,5 @@
 # Hey, I'm Ted! 👋🏻
-
-I'm the creator of **[LibreCoach](https://github.com/yourrepo)**—an open-source platform that bridges your RV's built-in systems with Home Assistant. Your rig. Your rules.
+I'm the creator of **[LibreCoach](https://librecoach.com/)**—an open-source platform that bridges your RV's built-in systems with Home Assistant. Your rig. Your rules.
 
 ---
 
@@ -14,4 +13,4 @@ I'm the creator of **[LibreCoach](https://github.com/yourrepo)**—an open-sourc
 - LibreCoach documentation and community resources
 - RV-C protocol decoding and Home Assistant integrations
 
-📍 [LibreCoach.com](https://librecoach.com) · [Buy Me a Coffee](https://buymeacoffee.com/backroads4me)
+📍 [LibreCoach.com](https://librecoach.com) · 💜 [Sponsor](https://github.com/sponsors/Backroads4Me)
