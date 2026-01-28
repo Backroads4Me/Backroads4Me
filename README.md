@@ -1,16 +1,23 @@
+<div align="center">
+
 # Hey, I'm Ted! 👋🏻
-I'm the creator of **[LibreCoach](https://librecoach.com/)**—an open-source platform that bridges your RV's built-in systems with Home Assistant. Your rig. Your rules.
+
+**Data Engineer, Full-time RVer, and lifelong tinkerer.**  
+
+</div>
 
 ---
 
-### A bit about me
-- 🚐 Full-time RVer
-- 💼 Data Engineer by day
-- 🔧 Lifelong tinkerer—cars, motorcycles, boats, and now motorhomes
-- 🖥️ Homelab enthusiast and open-source advocate
+### About Me
+- 🚐 **Full-time RVer:** Exploring the country in a motorhome.
+- 💼 **Professional Nerd:** Data Engineer by day.
+- 🔧 **Gearhead:** Working on cars, motorcycles, boats, and RVs.
+- 🖥️ **Tech:** Homelab enthusiast & open-source advocate.
 
-### Currently working on
-- LibreCoach documentation and community resources
-- RV-C protocol decoding and Home Assistant integrations
+### Passion Project
+**[LibreCoach](https://librecoach.com/)** – Connecting your RV's systems to Home Assistant.  *Your rig. Your rules.*
 
-📍 [LibreCoach.com](https://librecoach.com) · 💜 [Sponsor](https://github.com/sponsors/Backroads4Me)
+### Connect With Me
+- 🌐 [LibreCoach.com](https://librecoach.com)
+- 💬 Active in RV & Home Assistant communities as **Backroads4Me**
+- 💜 [GitHub Sponsor](https://github.com/sponsors/Backroads4Me)
