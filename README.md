@@ -19,5 +19,5 @@
 
 ### Connect With Me
 - 🌐 [LibreCoach.com](https://librecoach.com)
-- 💬 Active in RV & Home Assistant communities as **Backroads4Me**
+- 💬 Active in RV & Tech as **Backroads4Me**
 - 💜 [GitHub Sponsor](https://github.com/sponsors/Backroads4Me)
