@@ -1,25 +1,18 @@
 <div align="center">
 
-# Hey, I'm Ted 👋🏻
+# Ted Lanham
 
-**Data engineer, full-time RVer, homelab tinkerer, and open-source builder.**
+**Open source developer, full-time RVer, and homelab tinkerer.**
 
 </div>
 
 ---
 
-I build practical tools for RV automation, Home Assistant, Node-RED, and self-hosted workflows.
-
 ## Current Focus
 
-**[LibreCoach](https://librecoach.com/)** - connecting RV systems to Home Assistant through RV-C, CAN, MQTT, and Node-RED.
+**[LibreCoach](https://librecoach.com/)** - monitor and control your RV's systems from Home Assistant.
 
-## Public Projects
-
-- **[Home Assistant Add-ons](https://github.com/Backroads4Me/ha-addons)** - stable add-on repository for LibreCoach and related RV automation tools.
-- **[LibreCoach Node-RED](https://github.com/Backroads4Me/librecoach-node-red)** - Node-RED flows for decoding RV-C traffic and integrating with Home Assistant.
-- **[LibreCoach Site](https://github.com/Backroads4Me/librecoach-site)** - documentation site for LibreCoach.
-- **[Node-RED Markdown Note](https://github.com/Backroads4Me/node-red-contrib-markdown-note)** - always-visible Markdown notes for documenting Node-RED flows.
+**[Postmarked](https://github.com/Backroads4Me/postmarked)** - a self-hosted digital postcard app. Replace the social media feed with a lightweight way to share travel updates with family and friends.
 
 ## Support
 
