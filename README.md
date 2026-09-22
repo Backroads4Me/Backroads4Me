@@ -16,8 +16,6 @@
 
 ## Support
 
-If one of my projects helped you, the best support is to star the repository so others can find it.
+If one of my projects has been useful to you, and you'd like to help keep it going:
 
-Sponsorships are appreciated, but never expected.
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Backroads4Me)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/Backroads4Me)
